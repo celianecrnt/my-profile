@@ -1,0 +1,31 @@
+/* Color and font*/
+
+body{
+
+  background: #982424;
+  color: white(50, 50, 50)
+  
+  font-size: 16px;
+}
+
+h3{
+  
+  color: #982424 ;
+  font-size: 32px;
+  font-weight: 900;
+
+}
+
+.card-white {
+  background: white;
+  text-align: center;
+  font-size: 16px;
+  color: #982424 ;
+  padding: 40px; 
+  margin: 30px;
+  border-radius: 10px;
+}
+
+
+
+
